@@ -44,6 +44,10 @@ For N = 5, the pattern will look like:
 7 8 9 10
 11 12 13 14 15
 
+**Contact**
+
+If you have any questions or feedback, feel free to reach out to me at [mabdullahh7853@gmail.com].
+
 
 
 
