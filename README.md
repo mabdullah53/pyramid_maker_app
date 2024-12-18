@@ -1,8 +1,8 @@
-Pyramid Generator Flutter App
+**Pyramid Generator Flutter App**
 
 This is a simple Flutter app that generates a number pyramid pattern based on user input. The app allows users to enter any positive integer, and it will display the pyramid pattern dynamically. The pyramid will adjust according to the input number.
 
-Features
+**Features**
 
 User can input any positive integer (N).
 
@@ -13,13 +13,13 @@ The pattern is displayed dynamically in the form of rows.
 Responsive and easy-to-use interface.
 
 
-Requirements
+**Requirements**
 
 Flutter 2.0 or higher
 
 Dart 2.12 or higher
 
-Usage
+**Usage**
 
 1. Open the app.
 
@@ -34,7 +34,7 @@ Usage
 
 
 
-Example
+**Example**
 
 For N = 5, the pattern will look like:
 
